@@ -30,6 +30,7 @@ flutter:
 flutter_launcher_icons:
   android: true
   ios: false
-  image_path: assets/school_management_launcher.png
+  image_path: "assets/school_management_launcher.png"
   adaptive_icon_background: "#FFFFFF"
-  adaptive_icon_foreground: assets/school_management_launcher.png
+  adaptive_icon_foreground: "assets/school_management_launcher.png"
+  min_sdk_android: 21
